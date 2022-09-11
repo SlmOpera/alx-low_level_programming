@@ -6,8 +6,6 @@
  *
  * main - Entry point
  *
- * Description: program will assign a random number to the variable n
- *
  * Return: Always 0 (Success)
  */
 int main(void)
