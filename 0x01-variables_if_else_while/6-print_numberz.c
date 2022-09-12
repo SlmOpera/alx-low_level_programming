@@ -1,18 +1,15 @@
 #include <stdio.h>
 /**
- * main - this program prints some letters of alphabet
+ * main - this program prints the numbers from 0 to 9
  *
  * Return: Always (Success)
  */
 int main(void)
 {
-char c;
-for (c = 'a'; c <= 'z'; c++)
+int n;
+for (n = '0'; n <= '9'; n++)
 {
-if (c != 'e' && c != 'q')
-{
-putchar(c);
-}
+putchar(n);
 }
 putchar('\n');
 return (0);
