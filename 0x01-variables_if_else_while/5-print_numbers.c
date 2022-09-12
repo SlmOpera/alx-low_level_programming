@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - this program prints some letters of alphabet
+ * main - this program will print some letters of alphabet
  *
  * Return: Always (Success)
  */
@@ -11,7 +11,8 @@ for (c = 'a'; c <= 'z'; c++)
 {
 if (c != 'e' && c != 'q')
 {
-  putchar(c);
+putchar(c);
+}
 }
 putchar('\n');
 return (0);
