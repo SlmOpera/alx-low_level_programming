@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - this program will print some letters of alphabet
+ * main - this program will print numbers since 0 to 9
  *
  * Return: Always (Success)
  */
