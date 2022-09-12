@@ -6,13 +6,10 @@
  */
 int main(void)
 {
-char c;
-for (c = 'a'; c <= 'z'; c++)
+char n;
+for (n = '0'; n <= '9'; n++)
 {
-if (c != 'e' && c != 'q')
-{
-putchar(c);
-}
+putchar(n);
 }
 putchar('\n');
 return (0);
