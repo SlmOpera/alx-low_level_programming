@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints out first 50
+ * main - a function that prints out first 50
  * fibonacci suit numbers
- * Return: return 0
+ * Return: Always 0
  */
 int main(void)
 {
